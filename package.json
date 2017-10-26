@@ -1,0 +1,25 @@
+{
+  "name": "json_validator",
+  "version": "1.0.0",
+  "description": "JSON Request body sanity checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khannavidur/json_validator.git"
+  },
+  "keywords": [
+    "json",
+    "validation",
+    "sanity",
+    "checks"
+  ],
+  "author": "Vidur Khanna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khannavidur/json_validator/issues"
+  },
+  "homepage": "https://github.com/khannavidur/json_validator#readme"
+}
