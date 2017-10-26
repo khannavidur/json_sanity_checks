@@ -1,5 +1,5 @@
 {
-  "name": "json_validator",
+  "name": "json_sanity_checks",
   "version": "1.0.0",
   "description": "JSON Request body sanity checks",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khannavidur/json_validator.git"
+    "url": "git+https://github.com/khannavidur/json_sanity_checks.git"
   },
   "keywords": [
     "json",
@@ -19,9 +19,9 @@
   "author": "Vidur Khanna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khannavidur/json_validator/issues"
+    "url": "https://github.com/khannavidur/json_sanity_checks/issues"
   },
-  "homepage": "https://github.com/khannavidur/json_validator#readme",
+  "homepage": "https://github.com/khannavidur/json_sanity_checks#readme",
   "dependencies": {
     "lodash": "^4.17.4"
   }

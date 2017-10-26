@@ -1,4 +1,4 @@
-# json_validator
+# json_sanity_checks
 The first step involved at backend during a REST API call is the validation of request body. This step of sanity checks involves basically two functions
 
   - JSON Format Validation of request body
